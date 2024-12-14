@@ -1,6 +1,8 @@
 # JobFinder
 
 JobFinder é um site de vagas projetado para facilitar a busca de empregos e o gerenciamento de vagas. Os usuários podem pesquisar vagas, visualizar os detalhes e cadastrar novas oportunidades de emprego.
+###
+![jobfinder](https://github.com/user-attachments/assets/41f583e6-1eed-418c-b95f-a34de691194e)
 
 ## Funcionalidades
 
