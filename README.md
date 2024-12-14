@@ -55,9 +55,9 @@ jobfinder/
 ├── db/              # Banco de dados ou arquivos relacionados
 ├── models/          # Modelos de dados
 ├── node_modules/    # Dependências instaladas pelo npm
-├── public/          # Arquivos estáticos (CSS, JS, imagens)
+├── public/          # Arquivos estáticos 
 ├── routes/          # Rotas do aplicativo
-├── views/           # Templates das páginas (HTML, Handlebars)
+├── views/           # Templates das páginas 
 ├── app.js           # Arquivo principal do servidor
 ├── package-lock.json# Gerenciamento de dependências
 └── package.json     # Configuração do projeto e dependências
